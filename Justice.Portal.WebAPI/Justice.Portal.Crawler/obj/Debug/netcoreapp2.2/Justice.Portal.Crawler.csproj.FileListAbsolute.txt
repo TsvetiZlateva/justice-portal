@@ -1,0 +1,15 @@
+D:\Projects\Justice.Portal\Justice.Portal.WebAPI\Justice.Portal.Crawler\bin\Debug\netcoreapp2.2\Justice.Portal.Crawler.deps.json
+D:\Projects\Justice.Portal\Justice.Portal.WebAPI\Justice.Portal.Crawler\bin\Debug\netcoreapp2.2\Justice.Portal.Crawler.runtimeconfig.json
+D:\Projects\Justice.Portal\Justice.Portal.WebAPI\Justice.Portal.Crawler\bin\Debug\netcoreapp2.2\Justice.Portal.Crawler.runtimeconfig.dev.json
+D:\Projects\Justice.Portal\Justice.Portal.WebAPI\Justice.Portal.Crawler\bin\Debug\netcoreapp2.2\Justice.Portal.Crawler.dll
+D:\Projects\Justice.Portal\Justice.Portal.WebAPI\Justice.Portal.Crawler\bin\Debug\netcoreapp2.2\Justice.Portal.Crawler.pdb
+D:\Projects\Justice.Portal\Justice.Portal.WebAPI\Justice.Portal.Crawler\obj\Debug\netcoreapp2.2\Justice.Portal.Crawler.AssemblyInfoInputs.cache
+D:\Projects\Justice.Portal\Justice.Portal.WebAPI\Justice.Portal.Crawler\obj\Debug\netcoreapp2.2\Justice.Portal.Crawler.AssemblyInfo.cs
+D:\Projects\Justice.Portal\Justice.Portal.WebAPI\Justice.Portal.Crawler\obj\Debug\netcoreapp2.2\Justice.Portal.Crawler.dll
+D:\Projects\Justice.Portal\Justice.Portal.WebAPI\Justice.Portal.Crawler\obj\Debug\netcoreapp2.2\Justice.Portal.Crawler.pdb
+D:\Projects\Justice.Portal\Justice.Portal.WebAPI\Justice.Portal.Crawler\obj\Debug\netcoreapp2.2\Justice.Portal.Crawler.csprojAssemblyReference.cache
+D:\Projects\Justice.Portal\Justice.Portal.WebAPI\Justice.Portal.Crawler\bin\Debug\netcoreapp2.2\Justice.Portal.DB.dll
+D:\Projects\Justice.Portal\Justice.Portal.WebAPI\Justice.Portal.Crawler\bin\Debug\netcoreapp2.2\Justice.Portal.DB.pdb
+D:\Projects\Justice.Portal\Justice.Portal.WebAPI\Justice.Portal.Crawler\obj\Debug\netcoreapp2.2\Justice.Portal.Crawler.csproj.CopyComplete
+D:\Projects\Justice.Portal\Justice.Portal.WebAPI\Justice.Portal.Crawler\bin\Debug\netcoreapp2.2\data\nourls.txt
+D:\Projects\Justice.Portal\Justice.Portal.WebAPI\Justice.Portal.Crawler\bin\Debug\netcoreapp2.2\data\urls.txt

@@ -1,0 +1,59 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29020.237
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Justice.Portal.Web", "Justice.Portal.Web\Justice.Portal.Web.csproj", "{0045FAA5-B36A-4AD0-A698-8DBB44DA145F}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Justice.Portal.DB", "Justice.Portal.DB\Justice.Portal.DB.csproj", "{022FBA25-FB54-4597-A3DE-4F778D93A9B9}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{68E6DA7F-9F35-4BAA-86AB-0C219AE2E65C}"
+	ProjectSection(SolutionItems) = preProject
+		Credentials.txt = Credentials.txt
+		publish.txt = publish.txt
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "templates", "templates", "{B3494E11-6379-4CB4-BB32-5A58EAD4E146}"
+	ProjectSection(SolutionItems) = preProject
+		InnerPage.txt = InnerPage.txt
+		Institution.txt = Institution.txt
+		mainpage.txt = mainpage.txt
+	EndProjectSection
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Justice.Portal.Crawler", "Justice.Portal.Crawler\Justice.Portal.Crawler.csproj", "{75736E49-2418-4C12-9106-4FA8294B9612}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Justice.Portal.ExportSEBRA", "Justice.Portal.ExportSEBRA\Justice.Portal.ExportSEBRA.csproj", "{86664C7A-A33D-4D11-A1C4-53D93D591004}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0045FAA5-B36A-4AD0-A698-8DBB44DA145F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0045FAA5-B36A-4AD0-A698-8DBB44DA145F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0045FAA5-B36A-4AD0-A698-8DBB44DA145F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0045FAA5-B36A-4AD0-A698-8DBB44DA145F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{022FBA25-FB54-4597-A3DE-4F778D93A9B9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{022FBA25-FB54-4597-A3DE-4F778D93A9B9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{022FBA25-FB54-4597-A3DE-4F778D93A9B9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{022FBA25-FB54-4597-A3DE-4F778D93A9B9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{75736E49-2418-4C12-9106-4FA8294B9612}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{75736E49-2418-4C12-9106-4FA8294B9612}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{75736E49-2418-4C12-9106-4FA8294B9612}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{75736E49-2418-4C12-9106-4FA8294B9612}.Release|Any CPU.Build.0 = Release|Any CPU
+		{86664C7A-A33D-4D11-A1C4-53D93D591004}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{86664C7A-A33D-4D11-A1C4-53D93D591004}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{86664C7A-A33D-4D11-A1C4-53D93D591004}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{86664C7A-A33D-4D11-A1C4-53D93D591004}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{B3494E11-6379-4CB4-BB32-5A58EAD4E146} = {68E6DA7F-9F35-4BAA-86AB-0C219AE2E65C}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1D2A897F-1799-4822-8B0D-F4BE6CFCA4AD}
+	EndGlobalSection
+EndGlobal

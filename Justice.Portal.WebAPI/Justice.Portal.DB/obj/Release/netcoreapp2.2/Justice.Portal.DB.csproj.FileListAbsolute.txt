@@ -1,0 +1,12 @@
+D:\Projects\Justice.Portal\Justice.Portal.WebAPI\Justice.Portal.DB\bin\Release\netcoreapp2.2\Justice.Portal.DB.deps.json
+D:\Projects\Justice.Portal\Justice.Portal.WebAPI\Justice.Portal.DB\bin\Release\netcoreapp2.2\Justice.Portal.DB.runtimeconfig.json
+D:\Projects\Justice.Portal\Justice.Portal.WebAPI\Justice.Portal.DB\bin\Release\netcoreapp2.2\Justice.Portal.DB.runtimeconfig.dev.json
+D:\Projects\Justice.Portal\Justice.Portal.WebAPI\Justice.Portal.DB\bin\Release\netcoreapp2.2\Justice.Portal.DB.dll
+D:\Projects\Justice.Portal\Justice.Portal.WebAPI\Justice.Portal.DB\bin\Release\netcoreapp2.2\Justice.Portal.DB.pdb
+D:\Projects\Justice.Portal\Justice.Portal.WebAPI\Justice.Portal.DB\obj\Release\netcoreapp2.2\Justice.Portal.DB.csprojAssemblyReference.cache
+D:\Projects\Justice.Portal\Justice.Portal.WebAPI\Justice.Portal.DB\obj\Release\netcoreapp2.2\Justice.Portal.DB.AssemblyInfoInputs.cache
+D:\Projects\Justice.Portal\Justice.Portal.WebAPI\Justice.Portal.DB\obj\Release\netcoreapp2.2\Justice.Portal.DB.AssemblyInfo.cs
+D:\Projects\Justice.Portal\Justice.Portal.WebAPI\Justice.Portal.DB\obj\Release\netcoreapp2.2\Justice.Portal.DB.dll
+D:\Projects\Justice.Portal\Justice.Portal.WebAPI\Justice.Portal.DB\obj\Release\netcoreapp2.2\Justice.Portal.DB.pdb
+D:\Projects\Justice.Portal\Justice.Portal.WebAPI\Justice.Portal.DB\obj\Release\netcoreapp2.2\Justice.Portal.DB.csproj.CoreCompileInputs.cache
+D:\Projects\Justice.Portal\Justice.Portal.WebAPI\Justice.Portal.DB\obj\Release\netcoreapp2.2\Justice.Portal.DB.genruntimeconfig.cache
