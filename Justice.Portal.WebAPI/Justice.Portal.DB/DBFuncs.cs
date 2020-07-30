@@ -11,8 +11,6 @@ using System.Text;
 
 namespace Justice.Portal.DB
 {
-    //Scaffold-DbContext "Server=DESKTOP-NIQT1U7;Database=JusticePortal;Trusted_Connection=True;persist security info=True;user id=sa;password=123;MultipleActiveResultSets=True;" Microsoft.EntityFrameworkCore.SqlServer -OutputDir Models -Force
-    //Scaffold-DbContext "Server=172.16.0.56\MSSQLSERVER2017;Database=JusticePortal;Trusted_Connection=False;persist security info=True;user id = sa; password=@D1mitrov;MultipleActiveResultSets=True;" Microsoft.EntityFrameworkCore.SqlServer -OutputDir Models -Force
     public class DBFuncs
     {
         protected JusticePortalContext db;
